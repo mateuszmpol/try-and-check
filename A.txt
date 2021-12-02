@@ -1,3 +1,5 @@
+zerowy
 pierwszy
 drugi
 trzeci
+czwarty
