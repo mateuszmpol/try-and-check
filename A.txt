@@ -1,5 +1,6 @@
-zerowy
+0
 pierwszy
 drugi
 trzeci
 czwarty
+piaty
